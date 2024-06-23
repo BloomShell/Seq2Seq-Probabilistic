@@ -10,4 +10,4 @@ The model consists of several components:
 - **Attention Mechanism**: (Optional) Focuses on relevant parts of the input sequence during decoding.
 
 ## Visualize the Predictions
-![VIS]([https://img.icons8.com/color/48/000000/amazon-web-services.png](https://i.imgur.com/NppBsrc.png))
+![VIS]([https://i.imgur.com/NppBsrc.png](https://i.imgur.com/NppBsrc.png))
