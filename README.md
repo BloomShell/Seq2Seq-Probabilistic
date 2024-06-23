@@ -14,3 +14,6 @@ The model consists of several components:
   <a <img src="https://imgur.com/NppBsrc.png"></a><br>
 </div>
 
+<p align="center">
+    <img src="https://i.imgur.com/NppBsrc.png" alt="Seq2Seq Model Visualization" width="600"/>
+</p>
