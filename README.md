@@ -11,6 +11,6 @@ The model consists of several components:
 
 ## Visualize the Predictions
 <div align="center">
-  <a <img src="https://i.imgur.com/NppBsrc.png"></a><br>
+  <a <img src="[https://i.imgur.com/NppBsrc.png](https://imgur.com/NppBsrc)"></a><br>
 </div>
 
