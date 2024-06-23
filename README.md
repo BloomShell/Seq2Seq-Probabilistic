@@ -10,10 +10,6 @@ The model consists of several components:
 - **Attention Mechanism**: (Optional) Focuses on relevant parts of the input sequence during decoding.
 
 ## Visualize the Predictions
-<div align="center">
-  <a <img src="https://imgur.com/NppBsrc.png"></a><br>
-</div>
-
 <p align="center">
-    <img src="https://i.imgur.com/NppBsrc.png" alt="Seq2Seq Model Visualization" width="600"/>
+    <img src="https://i.imgur.com/NppBsrc.png" alt="Seq2Seq Model Visualization"/>
 </p>
