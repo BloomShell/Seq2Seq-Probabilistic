@@ -11,5 +11,5 @@ The model consists of several components:
 
 ## Visualize the Predictions
 <p align="center">
-![Demo]([[demo.gif](https://i.imgur.com/NppBsrc.png)](https://i.imgur.com/NppBsrc.png))
+ <img src="[demo.gif](https://i.imgur.com/NppBsrc.png)" alt="animated" />
 </p>
