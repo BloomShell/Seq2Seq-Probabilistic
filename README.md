@@ -11,5 +11,5 @@ The model consists of several components:
 
 ## Visualize the Predictions
 <p align="center">
-    <img src="https://i.imgur.com/NppBsrc.png" alt="Seq2Seq Model Visualization" width="1200"/>
+    <img src="https://i.imgur.com/NppBsrc.png" alt="Seq2Seq Model Visualization" width="900"/>
 </p>
