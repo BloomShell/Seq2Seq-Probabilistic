@@ -61,6 +61,7 @@ class Tensors:
         offset: int,
         train_test_val: bool = False,
         train_size: Optional[float] = None,
+        not_fwd: Optional[float] = None
     ) -> None:
         """
         Initialize the Tensors object with the input sequence data and parameters.
@@ -116,6 +117,14 @@ class Tensors:
                 for i in index
             ]
         )
+
+        # Modifying specific elements
+        # Assuming we want to modify specific elements in the first slice across all sequences
+        if not_fwd:
+            assert isinstance(not_fwd, list)
+            not_fwd = [x for x in not_fwd if x not in target_index]
+            for i in range(dec_inputs.shape[0]):
+                dec_inputs[i][:, not_fwd] = dec_inputs[i][0, not_fwd]
 
         # Generate decoder target sequences using the found indices and target_index
         dec_targets = torch.stack(
