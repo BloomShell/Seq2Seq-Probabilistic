@@ -13,8 +13,3 @@ The model consists of several components:
 <p align="center">
     <img src="https://i.imgur.com/nenSomS.png" alt="Seq2Seq Model Visualization" width="900"/>
 </p>
-<p align="center">
-    <img src="https://i.imgur.com/UN9XADg.png" alt="Seq2Seq Model Visualization" width="900"/>
-</p>
-
- 
